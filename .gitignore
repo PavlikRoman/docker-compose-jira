@@ -1,0 +1,5 @@
+/.idea/
+/configs/certbot/
+/jira/
+/logs/
+/docker-compose.yml
